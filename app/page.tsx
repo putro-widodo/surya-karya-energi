@@ -326,7 +326,7 @@ export default function HomePage() {
       </div>
       <h3 className="text-lg sm:text-xl font-semibold mb-1 text-yellow-400">Telepon</h3>
       <a
-        href="tel:+6282333334567"
+        href="tel:+62-811-2997500"
         className="text-white hover:text-yellow-400 transition-colors text-base sm:text-lg font-medium"
       >
         +62-811-2997500
@@ -339,7 +339,7 @@ export default function HomePage() {
       </div>
       <h3 className="text-lg sm:text-xl font-semibold mb-1 text-yellow-400">Email</h3>
       <a
-        href="mailto:info@suryaenergi.com"
+        href="mailto:Evriczeuzico@suryakaryaenergi.com"
         className="text-white hover:text-green-400 transition-colors text-base sm:text-lg font-medium"
       >
         Evriczeuzico@suryakaryaenergi.com
